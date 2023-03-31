@@ -1,7 +1,7 @@
 ## Team name and members:
 
 
-- Charles McCollough - 811961114 - (Github Link)
+- Charles McCollough - 811961114 - (https://github.com/charlmc/McCollough-Kroger-P1)
 - Kaitlyn Schindler - 811910151 - (https://github.com/KaitlynSchindler/Kroger)
 - Amy Do - 811900843 - (https://github.com/amydo21/Kroger)
 - Lucas Sparger - 811580057 - (https://github.com/lucassparger/Kroger)
