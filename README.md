@@ -32,3 +32,7 @@ Our team’s data model is based on the different stores Kroger has across the U
 ![Dic 10](https://user-images.githubusercontent.com/91034834/229182155-2689d36e-ab42-4953-a560-ea141d6b078b.PNG)
 ![Dic 11](https://user-images.githubusercontent.com/91034834/229182173-25f26457-01b3-4629-be93-b026bf410729.PNG)
 ![Dic 12](https://user-images.githubusercontent.com/91034834/229182196-664bd209-68c8-4a60-a5f8-082d6550670f.PNG)
+
+
+## Ten Queries
+
