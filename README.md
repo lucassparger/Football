@@ -19,3 +19,4 @@ Our team’s data model is based on the different stores Kroger has across the U
 
 
 ## Data Dictionary
+
