@@ -39,6 +39,8 @@ Our team’s data model is based on the different stores Kroger has across the U
 1. What is the average amount of invoices for each Department? 
 The query will run and show the average amount of invoices for each department in the stores. This is relevant because it could be put in a dashboard for the Kroger manager to see how many invoices were received on average per month if implemented correctly.
 ![Screenshot 2023-03-30 200727](https://user-images.githubusercontent.com/91034834/229184159-64aa25fc-4657-4d67-a970-0f8f483c5339.png)
+2. Count the number of Deliveries that arrived in April of 2023
+The query will return the number of deliveries that arrived in the month of April (2023). This is relevant because it affects the quantity of items a department has
 ![Q2](https://user-images.githubusercontent.com/91034834/229184234-8f143427-4e7f-4edb-93cd-8ea81ff98c0c.png)
 ![Q3](https://user-images.githubusercontent.com/91034834/229184241-c7798c8b-47af-4e82-8dc8-e622810be37f.png)
 ![Q4](https://user-images.githubusercontent.com/91034834/229184255-d07624d9-e743-4c5b-977a-cb9d59eeb35d.png)
