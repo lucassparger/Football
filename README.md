@@ -38,3 +38,13 @@ Our team’s data model is based on the different stores Kroger has across the U
 
 1. What is the average amount of invoices for each Department? 
 The query will run and show the average amount of invoices for each department in the stores. This is relevant because it could be put in a dashboard for the Kroger manager to see how many invoices were received on average per month if implemented correctly.
+![Screenshot 2023-03-30 200727](https://user-images.githubusercontent.com/91034834/229184159-64aa25fc-4657-4d67-a970-0f8f483c5339.png)
+![Q2](https://user-images.githubusercontent.com/91034834/229184234-8f143427-4e7f-4edb-93cd-8ea81ff98c0c.png)
+![Q3](https://user-images.githubusercontent.com/91034834/229184241-c7798c8b-47af-4e82-8dc8-e622810be37f.png)
+![Q4](https://user-images.githubusercontent.com/91034834/229184255-d07624d9-e743-4c5b-977a-cb9d59eeb35d.png)
+![Q5](https://user-images.githubusercontent.com/91034834/229184267-9a4ad41b-3e7b-4729-afb7-00950f683332.png)
+![Q6](https://user-images.githubusercontent.com/91034834/229184287-898d282d-6b12-4188-a566-1e6128732971.png)
+![Screenshot 2023-03-30 202058](https://user-images.githubusercontent.com/91034834/229184423-bfe99b7e-013f-4dd9-9cb6-c72c8611edd4.png)
+![Screenshot 2023-03-30 202223](https://user-images.githubusercontent.com/91034834/229184451-e63d6bf6-8d7a-4593-ae66-1b58c08219aa.png)
+![Screenshot 2023-03-30 202345](https://user-images.githubusercontent.com/91034834/229184475-2f61e50d-60e5-4c55-a44c-87a8da7eab7d.png)
+![Screenshot 2023-03-30 202613](https://user-images.githubusercontent.com/91034834/229184493-5eaf98b9-7fd2-4f62-94bc-b07603dfe8d4.png)
