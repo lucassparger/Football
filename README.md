@@ -14,4 +14,4 @@ Our team decided to model a database that describes the inventory, transaction, 
 
 ## Data Model
 
-(https://raw.githubusercontent.com/lucassparger/Kroger/main/dm.png)
+(https://raw.githubusercontent.com/lucassparger/Kroger/main/Kroger_datamodel_Final.png)
