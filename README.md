@@ -46,6 +46,9 @@ Our team’s data model is based on the different stores Kroger has across the U
 - The query will return the number of deliveries that arrived in the month of April (2023). This is relevant because it affects the quantity of items a department has.
 - 
 ![Q3](https://user-images.githubusercontent.com/91034834/229184241-c7798c8b-47af-4e82-8dc8-e622810be37f.png)
+4. What is the total revenue for each store?
+- The query will return the total revenue for each store. This is relevant because it could be shown on a dashboard for managers to see the revenue for each store in their district. 
+
 ![Q4](https://user-images.githubusercontent.com/91034834/229184255-d07624d9-e743-4c5b-977a-cb9d59eeb35d.png)
 ![Q5](https://user-images.githubusercontent.com/91034834/229184267-9a4ad41b-3e7b-4729-afb7-00950f683332.png)
 ![Q6](https://user-images.githubusercontent.com/91034834/229184287-898d282d-6b12-4188-a566-1e6128732971.png)
