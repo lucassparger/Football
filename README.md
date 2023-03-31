@@ -16,3 +16,6 @@ Our team decided to model a database that describes the inventory, transaction, 
 
 ![Kroger_datamodel_Final](https://user-images.githubusercontent.com/91034834/229179853-7aecf971-b79a-441b-9699-4f304c52e860.png)
 Our team’s data model is based on the different stores Kroger has across the United States. Each store has many relationships with other entities in the table. For example, a store has many transactions, and in those transactions are many items. A store can also make multiple payments to one vendor, and each of those payments would have one invoice. Likewise, a store has many departments, and each of those departments also have relationships with other entities. More specifically, a department can have many inventories, and in each inventory is the quantity of an item (e.g. the Bakery department has cupcakes and cookies, and the quantity of those items are 100 and 50 (respectively)). A department also has many orders, and each order contains many items. Each order is made through one delivery and contains one invoice; however, a vendor can have multiple orders.
+
+
+## Data Dictionary
