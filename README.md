@@ -2,7 +2,7 @@
 
 
 - Charles McCollough - 811961114 - (Github Link)
-- Kaitlyn Schindler - 811910151 - KaitlynSchindler/Kroger (github.com)
+- Kaitlyn Schindler - 811910151 - (https://github.com/KaitlynSchindler/Kroger)
 - Amy Do - 811900843 - (https://github.com/amydo21/Kroger)
 - Lucas Sparger - 811580057 - (https://github.com/lucassparger/Kroger)
 - Aidan Daly - 811653166 - (https://github.com/apd82722/Kroger) 
