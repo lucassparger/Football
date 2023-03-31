@@ -44,6 +44,7 @@ Our team’s data model is based on the different stores Kroger has across the U
 ![Q2](https://user-images.githubusercontent.com/91034834/229184234-8f143427-4e7f-4edb-93cd-8ea81ff98c0c.png)
 3. Count the number of Deliveries that arrived in April of 2023
 - The query will return the number of deliveries that arrived in the month of April (2023). This is relevant because it affects the quantity of items a department has.
+- 
 ![Q3](https://user-images.githubusercontent.com/91034834/229184241-c7798c8b-47af-4e82-8dc8-e622810be37f.png)
 ![Q4](https://user-images.githubusercontent.com/91034834/229184255-d07624d9-e743-4c5b-977a-cb9d59eeb35d.png)
 ![Q5](https://user-images.githubusercontent.com/91034834/229184267-9a4ad41b-3e7b-4729-afb7-00950f683332.png)
