@@ -81,3 +81,8 @@ Our team’s data model is based on the different stores Kroger has across the U
 - The query will run and show the profit made for each store. This is useful as Kroger would be able to find out which stores they should keep and get rid of.
 
 ![Screenshot 2023-03-30 202613](https://user-images.githubusercontent.com/91034834/229184493-5eaf98b9-7fd2-4f62-94bc-b07603dfe8d4.png)
+
+
+## Matrix
+
+![2023-03-31 (13)](https://user-images.githubusercontent.com/128402291/229186991-7fadb6c7-a7c7-48f3-924b-3c0dce69b00c.png)
